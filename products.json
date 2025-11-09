@@ -24,7 +24,7 @@
   { "id": "women9", "name": "Women Hoodie", "price": 1199, "category": "women", "image": "https://gostwear-frontend.vercel.app/img/women9.png" },
   { "id": "women10", "name": "Women Tee", "price": 899, "category": "women", "image": "https://gostwear-frontend.vercel.app/img/women10.png" },
   { "id": "women11", "name": "Women Tee", "price": 1399, "category": "women", "image": "https://gostwear-frontend.vercel.app/img/women11.png" },
-  { "id": "women12", "name": "Women Hoodie", "price": 1599, "category": "women", "image": "https://gostwear-frontend.vercel.app/img/women12.png" },
+  { "id": "women12", "name": "Women Hoodie", "price": 1599, "category": "women", "image": "https://gostwear-frontend.vercel.app/img/women12.webp" },
 
   { "id": "kids1", "name": "Kids Tee", "price": 599, "category": "kids", "image": "https://gostwear-frontend.vercel.app/img/kids1.png" },
   { "id": "kids2", "name": "Kids Tee", "price": 799, "category": "kids", "image": "https://gostwear-frontend.vercel.app/img/kids2.png" },
