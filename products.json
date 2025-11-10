@@ -31,10 +31,10 @@
   { "id": "kids4", "name": "Kids Tee", "price": 499, "category": "kids", "image": "https://gostwear-frontend.vercel.app/assets/img/kids4.png" },
   { "id": "kids5", "name": "Kids Hoodie", "price": 999, "category": "kids", "image": "https://gostwear-frontend.vercel.app/assets/img/kids5.png" },
   { "id": "kids6", "name": "Kids Tee", "price": 799, "category": "kids", "image": "https://gostwear-frontend.vercel.app/assets/img/kids6.png" },
-  { "id": "kids7", "name": "Kids Tee", "price": 599, "category": "kids", "image": "https://gostwear-frontend.vercel.app/assets/img/kids7.jpg" },
-  { "id": "kids8", "name": "Kids Hoodie", "price": 899, "category": "kids", "image": "https://gostwear-frontend.vercel.app/assets/img/kids8.jpg" },
-  { "id": "kids9", "name": "Kids Tee", "price": 699, "category": "kids", "image": "https://gostwear-frontend.vercel.app/assets/img/kids9.jpg" },
-  { "id": "kids10", "name": "Kids Tee", "price": 499, "category": "kids", "image": "https://gostwear-frontend.vercel.app/assets/img/kids10.jpg" },
-  { "id": "kids11", "name": "Kids Tee", "price": 799, "category": "kids", "image": "https://gostwear-frontend.vercel.app/assets/img/kids11.jpg" },
-  { "id": "kids12", "name": "Kids Hoodie", "price": 1199, "category": "kids", "image": "https://gostwear-frontend.vercel.app/assets/img/kids12.jpg" }
+  { "id": "kids7", "name": "Kids Tee", "price": 599, "category": "kids", "image": "https://gostwear-frontend.vercel.app/assets/img/kids7.png" },
+  { "id": "kids8", "name": "Kids Hoodie", "price": 899, "category": "kids", "image": "https://gostwear-frontend.vercel.app/assets/img/kids8.png" },
+  { "id": "kids9", "name": "Kids Tee", "price": 699, "category": "kids", "image": "https://gostwear-frontend.vercel.app/assets/img/kids9.png" },
+  { "id": "kids10", "name": "Kids Tee", "price": 499, "category": "kids", "image": "https://gostwear-frontend.vercel.app/assets/img/kids10.png" },
+  { "id": "kids11", "name": "Kids Tee", "price": 799, "category": "kids", "image": "https://gostwear-frontend.vercel.app/assets/img/kids11.png" },
+  { "id": "kids12", "name": "Kids Hoodie", "price": 1199, "category": "kids", "image": "https://gostwear-frontend.vercel.app/assets/img/kids12.png" }
 ]
